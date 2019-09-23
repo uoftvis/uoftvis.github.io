@@ -1,4 +1,4 @@
-Welcome to the U of T Visualization Discussion Group! The group is open to all faculty, researchers, staff, and students of U of T and affiliated institutions. We meet monthly at **[Scinet](http://www.scinet.utoronto.ca/)** in the **[MaRS Building, Room 1140](https://www.scinethpc.ca/contact-us/)**
+Welcome to the U of T Visualization Discussion Group! The group is open to all faculty, researchers, staff, and students of U of T and affiliated institutions. We meet monthly at **[SciNet](http://www.scinet.utoronto.ca/)** in the **[MaRS Building, Room 1140](https://www.scinethpc.ca/contact-us/)**
 
 **Activities for the discussion group include:**
 
@@ -26,7 +26,7 @@ The group organizing the Visualization Discussion Group are:
 
 We're always looking for more help, so if you are interested in helping organize the discussion group, please send us a line! 
 
-*We are grateful to be hosted by Scinet*
+*We are grateful to be hosted by SciNet*
 
 ## E-mail List
 If you would like to be notified about events and activities, please add yourself to the email list at <https://groups.io/g/uoftvisualization>
