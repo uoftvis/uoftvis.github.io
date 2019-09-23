@@ -21,7 +21,7 @@ The schedule for Fall 2019 is:
 
 ## Organizers
 The group organizing the Visualization Discussion Group are:
-* Mubdi Rahman, Dunlap Institute for Astronomy & Astrophysics ([mubdi.rahman@utoronto.ca])
+* Mubdi Rahman, Dunlap Institute for Astronomy & Astrophysics (<mubdi.rahman@utoronto.ca>)
 * Marcelo Ponce, SciNet
 
 We're always looking for more help, so if you are interested in helping organize the discussion group, please send us a line! 
@@ -29,4 +29,4 @@ We're always looking for more help, so if you are interested in helping organize
 *We are grateful to be hosted by Scinet*
 
 ## E-mail List
-If you would like to be notified about events and activities, please add yourself to the email list at [https://groups.io/g/uoftvisualization]
+If you would like to be notified about events and activities, please add yourself to the email list at <https://groups.io/g/uoftvisualization>
