@@ -1,47 +1,22 @@
 # University of Toronto Visualization Discussion Group
-Webpages for U of T Visualization Discussion Group
 
+Welcome to the U of T Visualization Discussion Group! The group is open to all faculty, researchers, staff, and students of U of T and affiliated institutions. We meet monthly at **Scinet** in the **MaRS Building, Room 1140**
 
-<div class="classictemplate template" style="display: block;">
-<style type="text/css">
-  #groupsio_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
-  #groupsio_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
-  #groupsio_embed_signup .email {display:block; padding:8px 0; margin:0 4% 10px 0; text-indent:5px; width:58%; min-width:130px;}
-  #groupsio_embed_signup {
-    background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
-  }
-  #groupsio_embed_signup .button {
+**Activities for the discussion group include:**
 
-      width:25%; margin:0 0 10px 0; min-width:90px;
-      background-image: linear-gradient(to bottom,#337ab7 0,#265a88 100%);
-      background-repeat: repeat-x;
-      border-color: #245580;
-      text-shadow: 0 -1px 0 rgba(0,0,0,.2);
-      box-shadow: inset 0 1px 0 rgba(255,255,255,.15),0 1px 1px rgba(0,0,0,.075);
-      padding: 5px 10px;
-      font-size: 12px;
-      line-height: 1.5;
-      border-radius: 3px;
-      color: #fff;
-      background-color: #337ab7;
-      display: inline-block;
-      margin-bottom: 0;
-      font-weight: 400;
-      text-align: center;
-      white-space: nowrap;
-      vertical-align: middle;
-    }
-</style>
-<div id="groupsio_embed_signup">
-<form action="https://groups.io/g/uoftvisualization/signup?u=7933744701697115472" method="post" id="groupsio-embedded-subscribe-form" name="groupsio-embedded-subscribe-form" target="_blank">
-    <div id="groupsio_embed_signup_scroll">
-      <label for="email" id="templateformtitle">Subscribe to our group</label>
-      <input type="email" value="" name="email" class="email" id="email" placeholder="email address" required="">
-    
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7933744701697115472" tabindex="-1" value=""></div>
-    <div id="templatearchives"></div>
-    <input type="submit" value="Subscribe" name="subscribe" id="groupsio-embedded-subscribe" class="button">
-  </div>
-</form>
-</div>
-</div>
+* Discussing the basic principles of visualization, including going through seminal texts such as Tufte’s “The Visual Display of Quantitative Information”
+* Workshop sessions where participants may bring visualizations that they are working on for advice and external opinions
+* Demonstrations and tutorials for various visualization tools
+* How to incorporate better visualization principles in your scientific workflow
+* Discussions of the dissemination of visualization (for both scientific and public outreach purposes)
+* Special guests discussing visualizations
+
+## Schedule
+The schedule for Fall 2019 is:
+
+## Organizers
+The group organizing the Visualization Discussion Group are:
+* Mubdi Rahman, Dunlap Institute for Astronomy & Astrophysics (mubdi.rahman@utoronto.ca)
+* Marcelo Ponce, SciNet
+
+*We are grateful to be hosted by Scinet*
