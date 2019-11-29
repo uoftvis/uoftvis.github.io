@@ -16,7 +16,7 @@ The schedule for Fall 2019 is:
 | --- | --- | --- |
 | Friday, September 27, 2019<br> (The Inaugural Meeting)  | 12 PM - 2 PM _(Bring a Lunch!)_ |  1. Introductions <br> 2. Discussion of the Concept of "Data-ink" <br> 3. Show and Tell _(Bring a visualization you're working on, or that you find interesting)_ <br> 4. The "Visualize This" Challenge |
 | Friday, November 1, 2019  | 12 PM - 2 PM _(Bring a Lunch!)_ |  1. Discussion of the Concept of "Multifunctioning Data Elements" <br> 2. Show and Tell _(Bring a visualization you're working on, or that you find interesting)_ <br>  |
-| Friday, November 29, 2019  | 12 PM - 2 PM _(Bring a Lunch!)_ | TBD  |
+| Friday, November 29, 2019  | 12 PM - 2 PM _(Bring a Lunch!)_ | 1. Showcase of the Winners of the _Information is Beautiful_ 2019 Winners <https://www.informationisbeautifulawards.com/news/485-information-is-beautiful-awards-2019-the-winners> <br> 2. Show and Tell _(Bring a visualization you're working on, or that you find interesting)_ <br> |
 
 
 ## Organizers
