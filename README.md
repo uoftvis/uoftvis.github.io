@@ -11,6 +11,7 @@ Welcome to the U of T Visualization Discussion Group! The group is open to all f
 
 ## Schedule
 The current schedule for Spring 2020 is:
+
 | Date | Time | Agenda |
 | --- | --- | --- |
 | Tuesday, March 17, 2029<br> | 2 PM - 4 PM  |  1. Visualizing the Coronavirus <br> 2. Show and Tell _(Bring a visualization you're working on, or that you find interesting)_ <br>  |
