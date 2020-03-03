@@ -14,7 +14,8 @@ The current schedule for Spring 2020 is:
 
 | Date | Time | Agenda |
 | --- | --- | --- |
-| Tuesday, March 17, 2029<br> | 2 PM - 4 PM  |  1. Visualizing the Coronavirus <br> 2. Show and Tell _(Bring a visualization you're working on, or that you find interesting)_ <br>  |
+| Tuesday, March 17, 2020<br> | 2 PM - 4 PM  |  1. Visualizing the Coronavirus <br> 2. Show and Tell _(Bring a visualization you're working on, or that you find interesting)_ <br>  |
+| TBD<br> | 2 PM - 4 PM  |  TBD  |
 
 
 The previous schedule for Fall 2019 is:
